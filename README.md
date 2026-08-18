@@ -1,10 +1,4 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/wordmark-dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="assets/wordmark-light.png">
-  <img alt="EMPOWERED.GURU" src="assets/wordmark-light.png" width="520">
-</picture>
-
->_ **the harbor method**: agile, rebuilt for ai agent fleets
+<img src="assets/hero-1600.png" alt="EMPOWERED.GURU - the harbor method: agile, rebuilt for ai agent fleets" width="100%">
 
 A working operating model for running a fleet of AI agents. Not Scrum with
 robot standups. The agile values, translated one layer down, and shipped in
